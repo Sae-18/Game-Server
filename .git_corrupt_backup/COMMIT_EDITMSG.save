@@ -1,0 +1,18 @@
+Revert "Enable ESM support for server"
+
+This reverts commit 17fd7efff639d8fec7e025a73849e03a045140d7.
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Your branch is up to date with 'origin/main'.
+#
+# Changes to be committed:
+#	modified:   package.json
+#
+# Changes not staged for commit:
+#	modified:   server.js
+
+
+#

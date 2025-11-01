@@ -1,0 +1,12 @@
+0000000000000000000000000000000000000000 afe7fcea369a24b382e7ae79841fa479067ea3ee Sae <egosbluelockproject@gmail.com> 1761574395 +0530	commit (initial): first commit
+afe7fcea369a24b382e7ae79841fa479067ea3ee 0000000000000000000000000000000000000000 Sae <egosbluelockproject@gmail.com> 1761574395 +0530	Branch: renamed refs/heads/master to refs/heads/main
+0000000000000000000000000000000000000000 afe7fcea369a24b382e7ae79841fa479067ea3ee Sae <egosbluelockproject@gmail.com> 1761574395 +0530	Branch: renamed refs/heads/master to refs/heads/main
+afe7fcea369a24b382e7ae79841fa479067ea3ee 3dac4c02cb6e00270d9bc502ac3337ac0125d5e0 Sae <egosbluelockproject@gmail.com> 1761574425 +0530	commit: first version of the server(testing)
+3dac4c02cb6e00270d9bc502ac3337ac0125d5e0 bf766e162587b93f4cbbe43732797168730082e6 Sae <egosbluelockproject@gmail.com> 1761574653 +0530	commit: Fix dependency sync and lockfile
+bf766e162587b93f4cbbe43732797168730082e6 17fd7efff639d8fec7e025a73849e03a045140d7 Sae <egosbluelockproject@gmail.com> 1761574924 +0530	commit: Enable ESM support for server
+17fd7efff639d8fec7e025a73849e03a045140d7 ffc91dd06b9200df70bd3b9b3bdca97e27a3affb Sae <egosbluelockproject@gmail.com> 1761672206 +0530	commit: battle surrender and substitution features
+ffc91dd06b9200df70bd3b9b3bdca97e27a3affb 4b7bcf21a4df8b38217b6f3641130406ddf12f94 Sae <egosbluelockproject@gmail.com> 1761740107 +0530	commit: added 1v2 support
+4b7bcf21a4df8b38217b6f3641130406ddf12f94 01f5433d7b3032eaaab68d151d55c0304ae355d2 Sae <egosbluelockproject@gmail.com> 1761744316 +0530	commit: testing new gameUpdate configs
+01f5433d7b3032eaaab68d151d55c0304ae355d2 612817b1893c763761b5d15ccb40bffbacb74c24 Sae <egosbluelockproject@gmail.com> 1761744955 +0530	commit: reverting to the first server
+612817b1893c763761b5d15ccb40bffbacb74c24 9bdde77f9bffbcdfff5073a256cca802842691fc Sae <egosbluelockproject@gmail.com> 1761745106 +0530	commit: pushing esm imports
+9bdde77f9bffbcdfff5073a256cca802842691fc 4cfb177814dac6031b66b9888dc8ce2aaf60a99d Sae <egosbluelockproject@gmail.com> 1761856195 +0530	commit: fixed stamina syncing bugs and pass button bugs and added attacker 2v1 support
